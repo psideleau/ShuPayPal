@@ -1,4 +1,6 @@
-import mysql.connector
+#Creating database which has the three functions such as  user, bank and transactions
+import.mysql.connecter
+#This link is connected to open the database.
 
 class database:
     
